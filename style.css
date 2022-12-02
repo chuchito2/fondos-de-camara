@@ -1,0 +1,10 @@
+body
+{
+    background: linear-gradient(rgb(140, 0, 255) 0%, rgb(0, 204, 255) 100%);
+}
+
+label
+{
+    color:white;
+    font-size: 20px;
+}
